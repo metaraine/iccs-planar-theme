@@ -1,0 +1,24 @@
+#planar_meta {
+    overflow: hidden;
+    padding-bottom: 1em;
+}
+ 
+#planar_meta p {
+    clear: both;
+}
+ 
+.custom-meta-row-title {
+    display: block;
+    float: left;
+    width: 200px;
+}
+ 
+.custom-meta-row-content {
+    float: left;
+    padding-bottom: 1em;
+}
+ 
+.custom-meta-row-content label {
+    display: block;
+    line-height: 1.75em;
+}
